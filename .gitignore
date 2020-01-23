@@ -1,0 +1,5 @@
+.idea
+./src/.idea/
+./src/venv/
+./src/mnist/data/
+./src/mnist/store/
